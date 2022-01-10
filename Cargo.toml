@@ -1,0 +1,13 @@
+[package]
+name = "heroes_and_cowards"
+version = "1.0.0"
+edition = "2021"
+authors = ["Tristan Guichaoua"]
+publish = false
+
+[dependencies]
+bevy = "0.5.0"
+bevy_egui = "0.8.0"
+rand = "0.8.4"
+rand_pcg = "0.3.1"
+bevy_prototype_debug_lines = "0.3.2"
